@@ -1,48 +1,48 @@
-let localeText = {
+   let localeText = {
       // for filter panel
       page: 'Página',
       more: 'Mais',
-      to: 'Para',
-      of: 'Do',
-      next: 'P´roximo',
-      last: 'daLasten',
-      first: 'daFirsten',
-      previous: 'daPreviousen',
-      loadingOoo: 'daLoading...',
+      to: 'para',
+      of: 'do',
+      next: 'Próximo',
+      last: 'Último',
+      first: 'Primeiro',
+      previous: 'Anterior',
+      loadingOoo: 'Carregando...',
 
       // for set filter
-      selectAll: 'daSelect Allen',
-      searchOoo: 'daSearch...',
-      blanks: 'daBlanc',
+      selectAll: 'Selecionar tudo',
+      searchOoo: 'Procurarando...',
+      blanks: 'Vazio',
 
       // for number filter and text filter
-      filterOoo: 'daFilter...',
-      applyFilter: 'daApplyFilter...',
+      filterOoo: 'Filtrando...',
+      applyFilter: 'Aplicando filtro...',
 
       // for number filter
-      equals: 'daEquals',
-      lessThan: 'daLessThan',
-      greaterThan: 'daGreaterThan',
+      equals: 'Igual',
+      lessThan: 'Menor que',
+      greaterThan: 'Maior que',
 
       // for text filter
-      contains: 'daContains',
-      startsWith: 'daStarts dawith',
-      endsWith: 'daEnds dawith',
+      contains: 'Contém',
+      startsWith: 'Começa com',
+      endsWith: 'Termina com',
 
       // the header of the default group column
-      group: 'laGroup',
+      group: 'Grupo',
 
       // tool panel
       columns: 'Colunas',
-      rowGroupColumns: 'laPivot Cols',
-      rowGroupColumnsEmptyMessage: 'la drag cols to group',
-      valueColumns: 'laValue Cols',
-      pivotMode: 'laPivot-Mode',
-      groups: 'laGroups',
-      values: 'laValues',
-      pivots: 'laPivots',
-      valueColumnsEmptyMessage: 'la drag cols to aggregate',
-      pivotColumnsEmptyMessage: 'la drag here to pivot',
+      rowGroupColumns: 'Colunas do grupo de linhas',
+      rowGroupColumnsEmptyMessage: 'Colunas do grupo de linhas vazias',
+      valueColumns: 'Valores das colunas',
+      pivotMode: 'Modo pivô',
+      groups: 'Grupos',
+      values: 'Valores',
+      pivots: 'Pivôs',
+      valueColumnsEmptyMessage: 'Valores de colunas vazias',
+      pivotColumnsEmptyMessage: 'Pivôs de colunas vazias',
       toolPanelButton: 'Botão de painel de ferramentas',
 
       // other
