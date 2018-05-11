@@ -1,23 +1,23 @@
-   let localeText = {
+let localeText = {
       // for filter panel
       page: 'Página',
-      more: 'Mais',
+      more: 'mais',
       to: 'para',
-      of: 'do',
+      of: 'de',
       next: 'Próximo',
       last: 'Último',
       first: 'Primeiro',
       previous: 'Anterior',
-      loadingOoo: 'Carregando...',
+      loadingOoo: 'Carregar',
 
       // for set filter
       selectAll: 'Selecionar tudo',
-      searchOoo: 'Procurarando...',
+      searchOoo: 'Procurar',
       blanks: 'Vazio',
 
       // for number filter and text filter
-      filterOoo: 'Filtrando...',
-      applyFilter: 'Aplicando filtro...',
+      filterOoo: 'Filtrar',
+      applyFilter: 'Aplicar filtro',
 
       // for number filter
       equals: 'Igual',
